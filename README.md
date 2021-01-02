@@ -6,6 +6,8 @@ I'm Baron Chibuikem, a software developer from Nigeria. I help businesses and st
 
 #### Skills
   **. Front-end:** React, Vue, Apollo/Client
+  
   **. Back-end:** Django, Express, Graphql, Django_rest, Django-graphne
+  
   **. Others:** Docker, Celery, MongoDB, PostgreSQl, Redis, Redux, Vuex.
   
