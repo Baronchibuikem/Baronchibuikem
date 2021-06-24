@@ -2,12 +2,11 @@
 
 #### About me
 
-I'm Baron Chibuikem, a software developer from Nigeria. I help businesses and start-ups with building web application using python and Javascript.
+I'm Baron Chibuikem, a backend developer from Nigeria. I enjoying working with Django and React and something tangle with Express.
 
 #### Skills
   **. Front-end:** React, Vue, 
   
-  **. Back-end:** Django, Express, Graphql, Django_rest, Django-graphne
+  **. Back-end:** Django, Express,
   
-  **. Others:** Docker, Celery, MongoDB, PostgreSQl, Redis, Redux, Vuex.
   
