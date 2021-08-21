@@ -3,9 +3,6 @@ Hi there :wave:, Baron here
 
 ###### I'm a fullstack developer with core experience working in the backend of software applications.
 
-###### I'm currently sharpening my GraphQL skills with a side project, employing Apollo Client on the frontend and Graphene-Python/Graphene-Django on the backend.
-
-###### I'm also taking baby steps in TypeScript.
 
 
     {
