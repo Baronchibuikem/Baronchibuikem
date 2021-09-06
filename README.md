@@ -8,8 +8,7 @@ Hi there :wave:, Baron here
     {
       name: 'Anozie Baron Chibuikem',
       version: 'latest',
-      jobTitle: 'Backend developer',
-      realTitle: 'Full-stack developer',
+      Title: 'Full-stack developer',
       phone: '+234 703 754 1482',
       email: 'baronchibuike@gmail.com',
       location: 'Abuja, Nigeria',
