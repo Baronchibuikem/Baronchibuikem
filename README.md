@@ -9,8 +9,8 @@ Hi there :wave:, Baron here
       name: 'Anozie Baron Chibuikem',
       version: 'latest',
       Title: 'Full-stack developer',
-      phone: '+234 703 754 1482',
       email: 'baronchibuike@gmail.com',
+      twitter: 'awesomebaron'
       location: 'Abuja, Nigeria',
       education: 'B.Sc (Geology), Federal University of Technology Owerri',
       social: {
